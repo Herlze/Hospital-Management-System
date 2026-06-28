@@ -1,0 +1,478 @@
+SMART HOSPITAL MANAGEMENT SYSTEM – FIGMA AI MASTER PROMPT
+
+Create a modern, futuristic Enterprise Smart Hospital Management System
+UI/UX with Glassmorphism, Dark Mode, Blue/Cyan/White/Emerald color
+palette. The project must feel like a next-generation hospital command
+center and be designed as a HIGH-FIDELITY INTERACTIVE PROTOTYPE.
+
+Create EIGHT SEPARATE PAGES (Tabs):
+
+PAGE 0 — Authentication (Login) PAGE 1 — Main Dashboard PAGE 2 — Module
+1: ICU Central Command & Telemetry PAGE 3 — Module 5: Medical IoT &
+Rogue Device Guardian PAGE 4 — Module 6: Mass Casualty Incident (MCI) /
+Emergency Department PAGE 5 — Module 14: Smart Facility & Real-Time
+Hardware Automation
+
+PAGE 0 — AUTHENTICATION - Hospital logo - Username/email - Password -
+Show/Hide password - Remember me - Forgot password - Multi-role login -
+Login success/error - Logout - Session timeout - Change password -
+Redirect to dashboard based on role
+
+Supported roles: Super Admin, Hospital Administrator, Doctor, Nurse, ICU
+Staff, Emergency Staff, Ambulance Staff, Biomedical Engineer, IoT
+Engineer, Security Officer, Housekeeping Staff, Facility Manager.
+
+PAGE 1 — MAIN DASHBOARD - Sidebar - Header - Notification Center -
+Global Search - Today’s Patients - ICU Occupancy - Emergency Cases -
+Active Ambulances - Connected IoT Devices - Smart Facility Status -
+Security Alerts - Calendar - Recent Activities - Hospital Capacity -
+Staff On Duty - Quick cards linking to Module 1,5,6,14
+
+PAGE 2 — MODULE 1 ICU Central Command & Telemetry - ICU patient
+monitoring - ECG, BP, SpO2, RR charts - Alarm fatigue management -
+Ambulance telemetry - Live bed occupancy - Patient timeline - Historical
+vital signs - Device status - Patient detail page - Export reports
+Module Requirements (Must Include):
+
+• Real-time vital signs monitoring dashboard.
+• Alarm fatigue mitigation using AI-based alarm prioritization and smart alarm grouping.
+• Interactive time-series charts for ECG, Blood Pressure, SpO₂, Respiratory Rate, and Temperature.
+• Pre-hospital Ambulance Telemetry receiving live patient data before arrival at the hospital.
+
+PAGE 3 — MODULE 5 Medical IoT & Rogue Device Guardian - Hospital
+topology - Medical device inventory - Rogue MAC detection - Automatic
+quarantine - One-click isolation - Device lifecycle - Firmware updates -
+Security analytics - Network traffic - Maintenance schedule - Audit log
+Module Requirements (Must Include):
+
+• Medical device network micro-segmentation topology map.
+• Rogue MAC Address detection for unauthorized medical devices.
+• Automatic quarantine system for newly connected unknown devices.
+• One-click medical device isolation from the hospital network.
+
+PAGE 4 — MODULE 6 Mass Casualty Incident (MCI) - START triage - John Doe
+registration - Offline-first architecture - Ambulance GPS - Hospital
+capacity - ICU availability - Resource allocation - Medical supplies -
+Disaster analytics - Incident reports
+Module Requirements (Must Include):
+
+• START TRIAGE interface with four priority levels (Black, Red, Yellow, Green).
+• Rapid registration for unidentified patients (John Doe).
+• Offline-First architecture to support disaster response without internet connectivity.
+• GPS-based ambulance fleet management and tracking.
+
+PAGE 5 — MODULE 14 Smart Facility - Hospital floor map - HVAC negative
+pressure - Door access - Housekeeping - Mortuary monitoring - CCTV -
+Fire alarm - Smoke detection - Water leak detection - Generator - UPS -
+Energy analytics - Asset monitoring
+Module Requirements (Must Include):
+
+• HVAC synchronization for infectious isolation negative-pressure rooms.
+• Ward access control with Arm Mode, Motion Detection, and Silent Mode.
+• Housekeeping management for cleaning schedules and room status.
+• IoT-based mortuary refrigeration monitoring and management.
+
+====================================
+PAGE 6 — SETTINGS & ADMINISTRATION
+==================================
+
+Create an Enterprise Administration Center for the Smart Hospital Management System.
+
+Include:
+
+• User Management
+• Role & Permission Management
+• Hospital Profile
+• Department Management
+• Staff Management
+• API Configuration
+• Database Monitoring
+• Backup & Restore
+• System Logs
+• Audit Trail
+• Notification Settings
+• Email Configuration
+• Security Settings
+• Language Selector
+• Theme (Dark / Light)
+• Accessibility Settings
+• About System
+• Version Information
+• License Information
+• Maintenance Mode
+
+====================================
+PAGE 7 — USER PROFILE
+=====================
+
+Create a complete User Profile page.
+
+Include:
+
+• Profile Information
+• Edit Profile
+• Change Password
+• Two-Factor Authentication
+• Login History
+• Recent Activities
+• Notification Preferences
+• Language Preferences
+• Theme Preferences
+• Connected Devices
+• Active Sessions
+• Logout
+
+GLOBAL FEATURES - Desktop, Laptop, Tablet, Android, iPhone responsive
+layouts - Auto Layout - Variables - Components - Variants - Design
+Tokens - Responsive Grid - Reusable Components
+
+EVERY BUTTON MUST WORK Prototype every: - Button - Card - Icon - Menu -
+Table - Chart - Search - Filter - Sort - Pagination - CRUD - Modal -
+Dialog - Notifications - Maps - Tabs - Forms - Settings
+
+Include realistic navigation: Login → Dashboard → Modules → Detail →
+Reports → Export → Logout
+
+REPORTING Every table supports: - Export Excel (.xlsx) - CSV - PDF -
+Print - Email Report - Download
+
+GLOBAL SEARCH Search: Patients, Doctors, Nurses, Devices, Ambulances,
+Rooms, Reports, Incidents, Security Logs, Housekeeping, HVAC.
+
+NOTIFICATIONS Critical Patient, Rogue Device, Ambulance, HVAC Failure,
+Temperature Warning, Security Alert, Maintenance, System Update.
+
+AUDIT LOG Log every important action including login, logout, CRUD,
+exports, door access, HVAC changes, ambulance arrivals, patient updates.
+
+Design should resemble Microsoft, Cisco, Siemens, SAP, Oracle Health and
+Philips Healthcare enterprise applications.
+
+Generate a COMPLETE enterprise software prototype with NO dead-end
+screens and NO placeholder buttons.
+
+====================================
+ADVANCED DASHBOARD FEATURES
+===========================
+
+Include:
+
+• KPI Cards
+• Live Statistics
+• Interactive Heatmap
+• Timeline
+• Calendar
+• Recent Activities
+• Quick Notes
+• Announcements
+• Weather Widget
+• Quick Actions
+• Favorites
+• Bookmarked Pages
+
+====================================
+ADVANCED TABLE FEATURES
+=======================
+
+Every data table must support:
+
+• Search
+• Multi-column Sorting
+• Advanced Filtering
+• Pagination
+• Bulk Selection
+• Bulk Delete
+• Bulk Update
+• Bulk Export
+• Import Excel
+• Import CSV
+• Export Excel
+• Export CSV
+• Export PDF
+• Print
+• Copy Data
+• Freeze Header
+• Resize Columns
+• Hide Columns
+• Detail Drawer
+• Inline Editing
+
+====================================
+ADVANCED ANALYTICS
+==================
+
+Include:
+
+• KPI Dashboard
+• Line Chart
+• Area Chart
+• Bar Chart
+• Pie Chart
+• Donut Chart
+• Heatmap
+• Gauge Chart
+• Timeline Chart
+• Live Time-Series Chart
+• Interactive Map
+• Trend Analysis
+
+====================================
+ADVANCED PROTOTYPE
+==================
+
+Prototype every interaction using:
+
+• Smart Animate
+• Hover State
+• Pressed State
+• Loading Skeleton
+• Empty State
+• Success State
+• Error State
+• Warning State
+• Overlay Modal
+• Side Drawer
+• Context Menu
+• Right Click Menu
+• Toast Notification
+• Keyboard Shortcut
+• Drag & Drop
+• Pull to Refresh (Mobile)
+
+====================================
+IMPORT & EXPORT
+===============
+
+Support:
+
+• Import Excel (.xlsx)
+• Import CSV
+• Export Excel (.xlsx)
+• Export CSV
+• Export PDF
+• Export JSON
+• Export XML
+• Print Report
+• Email Report
+• Download Report
+
+====================================
+ENTERPRISE REQUIREMENTS
+=======================
+
+Every screen must include:
+
+• Back Button
+• Home Button
+• Breadcrumb Navigation
+• Search
+• Notification Icon
+• User Avatar
+• Settings Shortcut
+
+Every dashboard card must open a detail page.
+
+Every module must be interconnected.
+
+No isolated screens.
+
+No placeholder components.
+
+Every button, icon, card, chart, table, menu, filter, notification, and form must perform a realistic action using Figma Prototype.
+
+Generate production-quality UI following enterprise design standards similar to Microsoft, Cisco, Oracle Health, Epic Systems, SAP, Siemens Healthineers, and Philips Healthcare.
+
+The final output should resemble a real Hospital Information System (HIS) ready for stakeholder presentation, with responsive layouts for Desktop, Laptop, Tablet, Android, and iPhone.
+
+====================================
+DESIGN & PROTOTYPE QUALITY STANDARDS
+====================================
+
+Use enterprise-level UX/UI best practices.
+
+Ensure:
+
+• Consistent spacing using an 8pt grid system
+• Responsive Auto Layout for all devices
+• Reusable Components
+• Component Variants
+• Variables & Design Tokens
+• Proper Constraints
+• Smart Animate transitions
+• Prototype Connections
+• Interactive Components
+• Design System Library
+• Icon Library
+• Consistent Typography
+• WCAG Accessibility Standards
+• High Contrast Mode
+• Touch-friendly mobile layouts
+
+Generate realistic data instead of lorem ipsum.
+
+Use realistic hospital names, patient names, departments, medical devices, staff names, and operational data.
+
+Every chart, table, KPI, map, and statistic should contain believable sample data.
+
+Avoid placeholder images and placeholder text.
+
+====================================
+AI GENERATION INSTRUCTION
+====================================
+
+Think like a Senior Product Designer, UX Designer, UI Designer, Healthcare System Analyst, and Enterprise Software Architect.
+
+Design the project as if it will be presented to hospital executives and software stakeholders.
+
+Prioritize usability, accessibility, scalability, consistency, realism, and professional enterprise software quality.
+
+The final result should look production-ready rather than a concept design.
+
+====================================
+MOBILE EXPERIENCE
+====================================
+
+Design dedicated mobile experiences for Android and iPhone.
+
+Include:
+
+• Bottom Navigation
+• Floating Action Button (FAB)
+• Swipe Gestures
+• Pull to Refresh
+• Mobile Cards
+• Mobile Tables
+• Mobile Charts
+• Mobile Forms
+• Mobile Search
+• Mobile Notifications
+• Mobile Profile
+• Mobile Settings
+
+Ensure all screens remain fully functional on mobile devices.
+
+Generate a complete enterprise-grade Smart Hospital Information System (HIS) with production-ready UI, reusable design system, realistic healthcare workflows, responsive layouts, fully interactive prototypes, complete CRUD operations, reporting, analytics, import/export functionality, role-based access control, and seamless navigation across all pages. Every screen should look presentation-ready and suitable for real-world hospital operations.
+
+====================================
+DEVELOPMENT CONSTRAINT
+======================
+
+====================================
+IMPLEMENTATION REQUIREMENTS
+===========================
+
+Maintain all existing frontend and backend functionality already implemented in the project.
+
+Keep all existing:
+
+• Routes
+• APIs
+• Controllers
+• Database Models
+• CRUD Operations
+• Authentication
+• Existing UI Components
+• Existing Business Logic
+
+Do NOT rewrite existing working features unless required to fix errors.
+
+Only implement missing functionality required by each module.
+
+====================================
+EXPORT & REPORTING
+==================
+
+Implement fully functional report generation.
+
+Every module must support:
+
+• Export Excel (.xlsx)
+• Export CSV
+• Export PDF
+• Print Report
+• Email Report
+• Download Report
+
+Export buttons must generate actual downloadable files instead of placeholder actions.
+
+Excel exports must contain structured hospital data.
+
+PDF exports must generate professional hospital reports including:
+
+• Hospital Logo
+• Report Title
+• Generated Date & Time
+• Summary
+• Tables
+• Charts (when applicable)
+• Signature Section
+
+====================================
+MODULE IMPLEMENTATION
+=====================
+
+Module 1
+
+Implement all required functionality:
+
+• ICU Central Command Dashboard
+• Real-Time Vital Monitoring
+• AI Alarm Prioritization
+• Alarm Fatigue Mitigation
+• ECG Time-Series
+• Blood Pressure Trends
+• SpO₂ Trends
+• Respiratory Rate Trends
+• Temperature Trends
+• Ambulance Telemetry
+• Patient Timeline
+• Historical Reports
+• Export Excel & PDF
+
+Module 5
+
+Implement all required functionality:
+
+• Medical Device Inventory
+• Network Micro-Segmentation
+• Rogue MAC Detection
+• Automatic Quarantine
+• One-Click Isolation
+• Firmware Management
+• Device Health
+• Network Analytics
+• Maintenance Schedule
+• Export Excel & PDF
+
+Module 6
+
+Implement all required functionality:
+
+• START TRIAGE (Black, Red, Yellow, Green)
+• John Doe Registration
+• Offline-First Architecture
+• Ambulance GPS Tracking
+• Hospital Capacity
+• ICU Bed Availability
+• Medical Supply Management
+• Disaster Analytics
+• Incident Reports
+• Export Excel & PDF
+
+Module 14
+
+Implement all required functionality:
+
+• HVAC Synchronization
+• Negative Pressure Monitoring
+• Ward Door Access
+• Arm Mode
+• Motion Detection
+• Silent Mode
+• Housekeeping Workflow
+• Mortuary IoT Monitoring
+• Refrigerator Monitoring
+• Power Monitoring
+• Backup Battery
+• Facility Analytics
+• Export Excel & PDF
